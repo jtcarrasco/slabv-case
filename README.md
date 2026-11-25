@@ -19,7 +19,7 @@ Rebuild the STLs: `openscad -o slabv_tray.stl slabv_tray.scad` and `openscad -D 
 
 - PCB sits on 12 bosses, 3.5mm above the floor (clears diodes, pins and Mill-Max socket tails). 0.4mm gap to the wall; rim is flush with the PCB top.
 - 12 x M2x5 screws from below into the 3mm female/female standoffs. 1.5mm of plastic stays under each screw head, standing in for the 1.6mm acrylic bottom.
-- Battery pocket (301230 cell) between the controller header rows, slide switch (SS12D00 size) at the back beside the USB notch, lever into the notch, wire slot at the top notch.
+- Battery pocket (30 x 12.5 x 3mm cell) between the controller header rows, slide switch (SS12D00 size) at the back beside the USB notch, lever into the notch, wire slot at the top notch.
 
 ## Tilt
 

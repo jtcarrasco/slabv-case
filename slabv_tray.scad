@@ -22,7 +22,7 @@ head_d     = 4.4;   // counterbore for the screw head
 shoulder   = 1.5;   // plastic left between screw head and PCB (acts like the 1.6mm bottom plate)
 
 /* [Battery: under the PCB between the controller header rows] */
-bat_w      = 12.6;  // 301230 cell (3 x 12 x 30mm) + clearance; change for another size
+bat_w      = 13.1;  // measured cell 30 x 12.5 x 3mm, + 0.6 clearance
 bat_l      = 30.6;
 bat_y      = -36;   // centre of the pocket
 bat_depth  = 1.0;   // recess into the floor to locate it
